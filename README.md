@@ -1,5 +1,7 @@
 # vue-filter-eric
 
+这是element-UI的无限滚动
+
 ## 安装
 
 ```shell
