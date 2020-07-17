@@ -1,8 +1,8 @@
 {
   "name": "vue-infinite-scroll-eric",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "这是element-UI的无限滚动",
-  "main": "index.js",
+  "main": "lib/vue-infinite-scroll-eric.js",
   "files": [
     "lib"
   ],
